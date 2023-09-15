@@ -1,3 +1,7 @@
 # gitlek
 # THIS IS HEADER h1
 ## THIS IS HEADER h2
+### THIS IS HEADER h3
+#### THIS IS HEADER h4
+##### THIS IS HEADER h5
+###### THIS IS HEADER h6
