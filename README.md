@@ -19,4 +19,5 @@
 __This is bold italic with underscores__  
 [Try this link](https://www.linkedin.com/in/danielnevadokroger/)
 
-![Bell tower](https://unsplash.com/photos/a-clock-tower-with-a-bell-on-top-of-it-VXMhr1x7Y7g)
+
+![](https://images.unsplash.com/photo-1694682845789-56788fccf4dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80.jpg)
