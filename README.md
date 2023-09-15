@@ -13,5 +13,7 @@
 * Item B
 * Item C
 * Item D
-*This is italic with starts*
-_This is italic with underscores_
+
+**This is bold italic with stars**
+
+__This is bold italic with underscores__
